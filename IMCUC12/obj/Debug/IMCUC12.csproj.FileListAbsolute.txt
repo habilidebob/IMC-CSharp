@@ -1,0 +1,11 @@
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\bin\Debug\IMCUC12.exe.config
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\bin\Debug\IMCUC12.exe
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\bin\Debug\IMCUC12.pdb
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\obj\Debug\IMCUC12.csproj.AssemblyReference.cache
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\obj\Debug\IMCUC12.csproj.SuggestedBindingRedirects.cache
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\obj\Debug\IMCUC12.Form1.resources
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\obj\Debug\IMCUC12.Properties.Resources.resources
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\obj\Debug\IMCUC12.csproj.GenerateResource.cache
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\obj\Debug\IMCUC12.csproj.CoreCompileInputs.cache
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\obj\Debug\IMCUC12.exe
+C:\Users\estevao.roliveira\Documents\UC12\IMCUC12\IMCUC12\obj\Debug\IMCUC12.pdb
