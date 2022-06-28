@@ -19,7 +19,13 @@ namespace IMCUC12
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            lblResultado.ForeColor = Color.Red;
+            double p, a, imc;
+            p = double.Parse(txtPeso.Text);
+            a = double.Parse(txtAltura.Text);
+            imc = p / (a * a);
+            txtIMC.Text = Math.Round(imc, 2).ToString();
+
+
         }
     }
 }

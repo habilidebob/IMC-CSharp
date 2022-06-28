@@ -104,6 +104,7 @@
             // 
             this.txtIMC.Location = new System.Drawing.Point(74, 162);
             this.txtIMC.Name = "txtIMC";
+            this.txtIMC.ReadOnly = true;
             this.txtIMC.Size = new System.Drawing.Size(148, 20);
             this.txtIMC.TabIndex = 7;
             // 
